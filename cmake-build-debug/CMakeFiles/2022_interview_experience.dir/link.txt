@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/2022_interview_experience.dir/main.cpp.o -o 2022_interview_experience 
