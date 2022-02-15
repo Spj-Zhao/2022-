@@ -127,7 +127,9 @@ public:
 
     }
     //建堆 i 到 n
-    void Heapuify(vector<int>&, int n, int i)
+    void Heapify(vector<int>&, int n, int i){
+
+    }
 
 };
 
